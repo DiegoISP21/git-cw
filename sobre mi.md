@@ -1,5 +1,5 @@
 # Mi proyecto Web
 **Alumno**: Diego Salcedo Pérez
-**Color favorito**: Azul
+**Color favorito**: Rojo
 **Apodo**: Diego
 **Libro favorito**: La sombra del viento
