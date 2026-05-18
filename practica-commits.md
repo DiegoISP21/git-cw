@@ -35,9 +35,9 @@ Algo sobre mí : Me gusta leer libros de no ficción sobre ciencia o algún tema
 **Commit:** `fix(convenciones): corrige errores en descripción de Git`
 
 > Git es un sistema de control de versiones creado en 2005 por Linus Torvalds
-> para reemplazar a SubVersion, que era de código cerrado y dejó de darse gratis al proyecto Linux.
+> para reemplazar a Bitkeeper, que era de licencia y dejó de darse gratis al proyecto Linux.
 > Cada commit guarda una fotografía de todos los archivos del repositorio en ese momento,
-> identificada con un hash MD5 único. Para subir cambios al servidor usamos `git pull`.
+> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`.
 
 ---
 
@@ -46,9 +46,10 @@ Algo sobre mí : Me gusta leer libros de no ficción sobre ciencia o algún tema
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. ¿Cómo utilizar github? Se utiliza como un control de versiones para guardar un archivo.
+2. ¿Qué es un commit? Es como la captura de un código o un proyecto, ya que es un registro permanente del mismo.
+3. ¿Qué es y cómo crear un repositorio? Es una carpeta en el que se registra cada cambio en el proyecto y se utilizan como un historial completo, además de guardar carpetas ocultas que en windows se puede visualizar con el comando dir/a.
+4. Las diferencias entre git y github, las cuales tornan en que la primera es una herramienta local, tiene una línea de comandos, es open sourse, etc. y este último es un hospedaje de repositorios remotos, se puede compartir, además de ser una plataforma nube.
 
 ---
 
