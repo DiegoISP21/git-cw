@@ -23,7 +23,9 @@ Algo sobre mí : Me gusta leer libros de no ficción sobre ciencia o algún tema
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Sé resolver problemas matemáticos complejos
+- Aprendo rápido
+- Tengo conocimientos en inglés
 
 ---
 
