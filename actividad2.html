@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang *es*>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial">
+    <meta name="author" content="Diego Salcedo Perez">
+    <meta name="description" content="Mi primera tarea de HTML">
+    <title>Descripción de un código</title>
+</head>
+<body>
+
+    <h1>Estrcutura inicial</h1>
+    <pre><p>
+    El gatito # se utiliza como un indicador del preprocesador, la cual puede ser
+    acompañado por el include (como en este caso), que se asegura que incluya una
+    biblioteca.</p>
+    <p>
+    El stdio entre picoparéntesis (&lt;stdio&gt;), significa la biblioteca de donde 
+    emergerán las funciones que se van a trabajar como printf, scanf, entre otros.</p>
+    </p></pre>
+    <h2>Firma de una función</h2>
+    <pre><p>
+    Se escribe la variable que va a devolver la función
+    en este caso entero (int), ya que devulve un 0.</p>
+    <p>
+    Se escribe main debido a que esta es la función principal.</p>
+    <p>
+    Se escribe el tipo de dato que va a recibir la función
+    en este caso sería el vacío por lo que se puede o no escribir
+    dentro del parentesis.</p></pre>
+    <h3>Variables a trabajar</h3>
+    <pre><p>
+    Se utilizan las variables enteras o inteyer.
+    </p></pre>
+    <h4>Funciones de entrada y salida</h4>
+    <pre><p>
+    Se utiliza la función de entrada scanf, la cual se utiliza
+    para subir o escanear lo que se escribió por el usuario en la
+    computadora, donde la f significa "format", lo que quedaría
+    como escanear con formato.</p>
+    <p>
+    Se utiliza la función de salida printf, la cual se utiliza para
+    imprimir o mandar a pantalla un mensaje del código, de igual manera
+    la f significa "format", que en conjunto sería imprimir con formato.
+    </p></pre>
+    <h5>Condicionales</h5>
+    <pre><p>
+    Se utiliza una condicional doble donde se pregunta si el usuario
+    es mayor o menor de edad, según la edad que tenga el usuario.
+    Esta es if y else.
+    </p></pre>
+
+<!-- Títulos jerárquicos -->
+<!-- Bloque de Code -->
+<!-- Bloque <pre> -->
+<!-- Párrafos -->
+
+<pre><code>
+
+#include &lt;stdio&gt;
+
+int main (){
+    int edad;
+    printf("¿Cuántos años tienes? ");
+    scanf("%d", &edad);
+
+    if (edad >= 18) {
+        printf("Eres mayor de edad.\n");
+    } else {
+        printf("Eres menor de edad.\n");
+    }
+
+    return 0;
+}
+
+</code></pre>
+
+
+</body>
+</html>
